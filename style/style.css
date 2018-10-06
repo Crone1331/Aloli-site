@@ -1,0 +1,277 @@
+/* ТУТ НАЧАЛО */
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.main-slider{
+    
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.slider-set{
+   width: 430px;
+    display: inline-block;
+    
+}
+.main-slider img{
+    height: 55px;
+    
+      box-shadow: 0 5px 10px 0 black;
+  
+}
+
+ul{
+    list-style: none;
+}
+.page-footer li{
+    
+    display:inline-block;
+   
+}
+footer {
+margin-left: auto;
+margin-right: auto;
+color:white;
+width: 1000px;
+
+height: 80px;
+background-image: url(../image/footer_03.png);
+   
+}
+
+.info {
+    
+    width:30%;
+    float:left;
+    margin-left: -50px;
+    
+}
+.copyright{
+    float:right;
+    padding-top:10px;
+    padding-right: 10px;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.itc {
+    
+    color:#FFD700;
+   
+}
+a{
+    text-decoration: none;
+}
+main{
+    margin-top: 230px;
+    margin-bottom:140px;
+    height: 752px;
+   
+    
+}
+
+.services{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 375px;
+    box-shadow: 0 2px 20px 0 black;
+    background: #F5F5F5;
+    
+
+}
+.services-news-block{
+    position:relative;
+    
+    width: 20.7%;
+    height: 290px;
+    top:60px;
+    left:20px;
+    display: inline-block;
+    margin-left:20px;
+    background: white;
+    box-shadow: 0 1px 1px 0 black;
+    border-radius: 5px;
+}
+.img-block{
+    position: absolute;
+    border-radius: 5px;
+}
+.info-block{
+    width: 190px;
+   position: absolute; 
+    top:150px;
+    left:10px;
+   font-family:Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.btn-info {
+    
+    margin-top:105px;
+    width: 150px;
+    height: 25px;
+    
+    text-align:  center;
+    
+    color:white;
+    background: #1f1c1c;
+     font-family:Tahoma, sans-serif;
+    font-size: 15px;
+    border-radius: 7px;
+    margin-left: 15px;
+    
+}
+.btn-info a {
+    color:white;
+}
+.text-info-block{
+    position: absolute;
+}
+.text-info-block time{
+    position: absolute;
+    color:gray;
+    font-style:italic;
+    font-size: 13px;
+}
+
+/* .services-news-block{
+    
+    width: 20%;
+    margin-left: 30px;
+    margin-top:60px;
+    height:250px;
+    box-shadow: 0 1px 10px 0 #696969;
+    display:inline-block;
+    background: white;
+    text-align: center;
+}
+*/
+.news {
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 1000px;
+    height: 375px;
+    margin-top: 30px;
+    box-shadow: 0 2px 20px 0 black;
+    background: #F5F5F5;
+}
+.text-menu{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-family:Tahoma, sans-serif;
+}
+
+.text-menu2 a{
+    font-size: 20px;
+    text-align:center;
+    width: 145px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 870px;
+    font-family:Tahoma, sans-serif;
+    position: absolute;
+    background: url("../image/Rectangle%205.png");
+    color:white;
+    
+}
+
+
+
+/*ТУТ КОНЕЦ*/
+.main-menu {
+    height: 45px;
+    background-image: url("../image/head_02.png");
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.menu-2 {
+    height: 50px;
+    background-color: #ffcd00;
+    width: 100%;
+    box-shadow: 0 2px 20px 0 black;
+    margin: 0;
+    padding: 3px 3px;
+    
+}
+
+.logo {
+    position: absolute;
+    left: 100px;
+}
+.phone {
+ 
+}
+.skype {
+  width: 25px;
+
+}
+.commun {
+    margin-left: 25px;
+    width: 150px;
+    background-color: black;
+    height: 20px;
+    color:white;
+    
+    text-align: center;
+    border-radius: 5px;
+    
+    
+   
+}
+
+ul {
+    padding-left: 28%;
+    display: list-item;
+    
+    
+}
+.menu-2 ul{
+  padding-left: 30%;  
+}
+.page-header li {
+    width: 100px;
+    list-style: none;
+    float: left;
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+    
+    margin-right: %;
+    color:black;
+    font-size: 12px;
+}
+.menu-2 li{
+        width: 95px;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+        
+}
+.menu-2 li img{
+       margin-left: 50px;
+        
+        
+}
+
+
+
+body {
+   margin: 0; 
+    background: url(../Image/fon_01.png) no-repeat,
+        url("../Image/fon2.png");
+    background-size: 100%;
+    
+}
